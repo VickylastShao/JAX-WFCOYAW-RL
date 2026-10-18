@@ -1,0 +1,37 @@
+# Local environments and generated Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Credentials and machine-local configuration
+.env
+.env.*
+*.pem
+*.key
+*token*.txt
+*secret*.json
+
+# Large release payloads are distributed as versioned release assets
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.npz
+*.npz.gz
+*.pkl
+*.pkl.gz
+*.pt
+*.pth
+*.npy
+*.h5
+*.hdf5
+*.ckpt
+
+# Local execution outputs
+scratch/
+outputs/
+local_results/
+.DS_Store
+Thumbs.db

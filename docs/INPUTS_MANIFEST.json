@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "sha256_algorithm": "SHA-256",
+  "count": 11,
+  "total_compressed_bytes": 7177998200,
+  "reproduction_scope": "Physical source states and independent evaluation starting states. Complete LES reruns require regeneration of inflow; bitwise reconstruction across hardware has not been validated. These files do not provide complete training-resume states.",
+  "files": [
+    {
+      "logical_path": "qualified_sources/n81_train_A/state.npz.gz",
+      "scientific_use": "Qualified turbulent source A for direct LES training and inflow regeneration",
+      "release_asset": "n81_source_A_state.npz.gz",
+      "original_format": "npz",
+      "compression": "gzip",
+      "compressed_bytes": 1519187935,
+      "compressed_sha256": "a61fb5535dab2be54f2d834314a502f96aa66ae541a3fe4c27f15880aa30903e",
+      "original_bytes": 1651761420,
+      "original_sha256": "d5736766b5c2f0a88f46a856685c703ec4f3ef899bd0e984959a0f9e77f58f95"
+    },
+    {
+      "logical_path": "qualified_sources/n81_heldout_B/state.npz.gz",
+      "scientific_use": "Qualified independent turbulent source B for held-out evaluation and inflow regeneration",
+      "release_asset": "n81_source_B_state.npz.gz",
+      "original_format": "npz",
+      "compression": "gzip",
+      "compressed_bytes": 1518993827,
+      "compressed_sha256": "9e38e36a1846e9b370ef8ef67d8ffd9b8b86b3661f9db347c7ba91624b09213a",
+      "original_bytes": 1651761420,
+      "original_sha256": "48fefd43e5ebec8c93f03387bd945464cbec949520fc170fec4352c9c665746a"
+    },
+    {
+      "logical_path": "qualified_sources/n81_heldout_C/state.npz.gz",
+      "scientific_use": "Qualified independent turbulent source C for held-out evaluation and inflow regeneration",
+      "release_asset": "n81_source_C_state.npz.gz",
+      "original_format": "npz",
+      "compression": "gzip",
+      "compressed_bytes": 1518933622,
+      "compressed_sha256": "895aab44bcd22eaf55fe31cdfde29d94e78f438b850127d58cb1f9705a14515c",
+      "original_bytes": 1651761420,
+      "original_sha256": "45fe0f0ffd40423ed54adddbdb28de80bf2f97ca8e99aa44a8835ce970e81802"
+    },
+    {
+      "logical_path": "evaluation/n81_B_w1/common_state.pkl.gz",
+      "scientific_use": "Common LES scoring-start state for held-out source B, window w1; paired controller evaluation starts from this state",
+      "release_asset": "n81_B_w1_common_state.pkl.gz",
+      "original_format": "pickle",
+      "compression": "gzip",
+      "compressed_bytes": 327590938,
+      "compressed_sha256": "ae231ae44f907cf1331a5ede2aed1e53ca229c49af3839d732950d6028146063",
+      "original_bytes": 355887779,
+      "original_sha256": "1db258cbe44cfe3eedcca2ad82c7965baba35b7f280be520dc74128d838a58be"
+    },
+    {
+      "logical_path": "evaluation/n81_B_w2/common_state.pkl.gz",
+      "scientific_use": "Common LES scoring-start state for held-out source B, window w2; paired controller evaluation starts from this state",
+      "release_asset": "n81_B_w2_common_state.pkl.gz",
+      "original_format": "pickle",
+      "compression": "gzip",
+      "compressed_bytes": 327662704,
+      "compressed_sha256": "0151863d2588f878ed35c7eb65c21870c374ef7af78c2d347cb7d2801d7c352b",
+      "original_bytes": 355887779,
+      "original_sha256": "b0a4274828afe1cd90342652f8c48cb9fb7da6dfa0731942d4d4711ba31a9790"
+    },
+    {
+      "logical_path": "evaluation/n81_B_w3/common_state.pkl.gz",
+      "scientific_use": "Common LES scoring-start state for held-out source B, window w3; paired controller evaluation starts from this state",
+      "release_asset": "n81_B_w3_common_state.pkl.gz",
+      "original_format": "pickle",
+      "compression": "gzip",
+      "compressed_bytes": 327588287,
+      "compressed_sha256": "9b7cb09f670acc0ded5832b8f077fbfe038c43f6b782f0e57f7fe458537ea0bc",
+      "original_bytes": 355887779,
+      "original_sha256": "621991ce74a9062f6038c8e06cb0bd755046c7b2fa0085b168d2624a10a2b70a"
+    },
+    {
+      "logical_path": "evaluation/n81_B_w4/common_state.pkl.gz",
+      "scientific_use": "Common LES scoring-start state for held-out source B, window w4; paired controller evaluation starts from this state",
+      "release_asset": "n81_B_w4_common_state.pkl.gz",
+      "original_format": "pickle",
+      "compression": "gzip",
+      "compressed_bytes": 327648672,
+      "compressed_sha256": "420c9f805d809dd64da65f6862544bc2f994bc1f9f0cf0d14baa3e0380792b72",
+      "original_bytes": 355887779,
+      "original_sha256": "ea127d02f6cab5b1c7b8bb4754747e64a7ffc7a61c40b78e16dceae48223bfd7"
+    },
+    {
+      "logical_path": "evaluation/n81_C_w1/common_state.pkl.gz",
+      "scientific_use": "Common LES scoring-start state for held-out source C, window w1; paired controller evaluation starts from this state",
+      "release_asset": "n81_C_w1_common_state.pkl.gz",
+      "original_format": "pickle",
+      "compression": "gzip",
+      "compressed_bytes": 327571862,
+      "compressed_sha256": "7583010d0c003c5acdc31d342735536bc2cf25efe409e2c80fa0754993147218",
+      "original_bytes": 355887779,
+      "original_sha256": "2d1894c21adc5715e375da3fda4f84af620f4222ba49372d2eef69058ae3ab5e"
+    },
+    {
+      "logical_path": "evaluation/n81_C_w2/common_state.pkl.gz",
+      "scientific_use": "Common LES scoring-start state for held-out source C, window w2; paired controller evaluation starts from this state",
+      "release_asset": "n81_C_w2_common_state.pkl.gz",
+      "original_format": "pickle",
+      "compression": "gzip",
+      "compressed_bytes": 327575140,
+      "compressed_sha256": "61e11bd19da0f63c2f30194a436c5bea54eeba01384ced86dc0f01ac2c64b259",
+      "original_bytes": 355887779,
+      "original_sha256": "b85a3652b30de3192b6f72b949fe1c9958b8a2c57a802b057c1c7acac2171f3e"
+    },
+    {
+      "logical_path": "evaluation/n81_C_w3/common_state.pkl.gz",
+      "scientific_use": "Common LES scoring-start state for held-out source C, window w3; paired controller evaluation starts from this state",
+      "release_asset": "n81_C_w3_common_state.pkl.gz",
+      "original_format": "pickle",
+      "compression": "gzip",
+      "compressed_bytes": 327594921,
+      "compressed_sha256": "82d30025a058b2a25145a7c9821bc33363c508f5780bb303f1d43ac05b869a8a",
+      "original_bytes": 355887779,
+      "original_sha256": "cdce19046e0af91b49ae083490711b53ceb569ff339f4bfd45806608cc1a3411"
+    },
+    {
+      "logical_path": "evaluation/n81_C_w4/common_state.pkl.gz",
+      "scientific_use": "Common LES scoring-start state for held-out source C, window w4; paired controller evaluation starts from this state",
+      "release_asset": "n81_C_w4_common_state.pkl.gz",
+      "original_format": "pickle",
+      "compression": "gzip",
+      "compressed_bytes": 327650292,
+      "compressed_sha256": "39f675cd341f0d73bd4557c83fb5f037671611e233f5f5e390c46231595b4169",
+      "original_bytes": 355887779,
+      "original_sha256": "e76d0771488f76bb7331f7a274645616700912cb284a5e606794c8b0122b5831"
+    }
+  ]
+}

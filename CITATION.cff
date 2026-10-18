@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: >-
+  If you use these research materials, cite this versioned software and data
+  release. This record describes the research artifact, not a published article.
+type: software
+title: "JAX-WFCOYAW-RL: execution methods for direct LES reinforcement-learning wind-farm control"
+version: 1.0.0
+date-released: '2026-10-18'
+url: "https://github.com/VickylastShao/JAX-WFCOYAW-RL"
+repository-code: "https://github.com/VickylastShao/JAX-WFCOYAW-RL"
+authors:
+  - family-names: Shao
+    given-names: Zhuang
+  - family-names: Yang
+    given-names: Jiamei
+  - family-names: Lei
+    given-names: Lijun
+  - family-names: Li
+    given-names: Bingnan
+  - family-names: Ding
+    given-names: Ruifeng
+  - family-names: Wu
+    given-names: Zhenlong
+abstract: >-
+  Scientific code and saved records for GPU-native execution of direct
+  reinforcement-learning training in large-eddy simulation of wind-farm yaw
+  control. Separately trained three-, nine- and 81-turbine cases provide
+  reference-task checks, intermediate graph-policy evaluation, and farm-scale
+  execution and control evidence. Author-generated data, trained actors and
+  figures accompany original code under separate licences.
+keywords:
+  - wind-farm control
+  - large-eddy simulation
+  - reinforcement learning
+  - JAX
+  - GPU execution
+license:
+  - MIT
+  - CC-BY-4.0

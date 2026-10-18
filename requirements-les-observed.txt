@@ -1,0 +1,4 @@
+# Frozen two-host Mole LES-SAC runtime. Install from the same index on both hosts.
+jax[cuda12]==0.9.0.1
+flax==0.12.4
+optax==0.2.6

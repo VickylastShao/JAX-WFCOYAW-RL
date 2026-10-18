@@ -1,0 +1,1920 @@
+{
+  "schema": "github-science-source-mirror/2",
+  "status": "PASS_SOURCE_VERIFIED_BROWSE_ONLY",
+  "archive_release_tag": "v1.0.0",
+  "scope": "Readable scientific code and dependency records only. Complete archived dependencies, numerical inputs and saved results are provided as Release assets.",
+  "source_archives": [
+    {
+      "file": "n81_20261018_portable_science.tar.gz",
+      "sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6"
+    },
+    {
+      "file": "n81_20261016_portable_science.tar.gz",
+      "sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "nested_in": "n81_20261018_portable_science.tar.gz"
+    }
+  ],
+  "records": [
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/benchmark_mole_sac_update_throughput.py",
+      "bytes": 14660,
+      "sha256": "f9cbcac4bf136603c944951f4c211324a151ba6760b0c9de444cf6ae285c17eb",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/benchmark_mole_sac_update_throughput.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/build_archive_manifest.py",
+      "bytes": 2764,
+      "sha256": "1099884ed2800112874fa07ea892843f2841da898510f7f8938645bc956edd53",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/build_archive_manifest.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/compare_mole_sac_update_throughput.py",
+      "bytes": 3782,
+      "sha256": "28377055ca140fbe970d36f089363bfdfd66d206e08115a253a1453c0d086dca",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/compare_mole_sac_update_throughput.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/generate_mole_plane_archive.py",
+      "bytes": 12635,
+      "sha256": "bdde360aa7a02bb49abb2d47efd19502c5f2b5d595f8baaa426120bd71e6b3d1",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/generate_mole_plane_archive.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/generate_mole_precursor_resumable.py",
+      "bytes": 18037,
+      "sha256": "007e577d03b7f8616ea9b151229e4620e9bb3fa9e4323fd2b6788475e800c90a",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/generate_mole_precursor_resumable.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/incompact3d_filter.py",
+      "bytes": 10838,
+      "sha256": "7e8289c297ac7f5f83c940f305cb0931d6b642d134ef3c438570bbf1134d8aa4",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/incompact3d_filter.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/incompact3d_staggered.py",
+      "bytes": 21309,
+      "sha256": "d57683c114de6cb11b91e6b6b72506b6d3d59a648101b92a90ac342a5032b6e3",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/incompact3d_staggered.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/jax_mole_case_benchmark.py",
+      "bytes": 34883,
+      "sha256": "eaa0717fc1655c411f6e1003cddf339d86f571fbc05f1a860bf1ca07f6fbaffe",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/jax_mole_case_benchmark.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/jax_mole_compact_sac_benchmark.py",
+      "bytes": 89715,
+      "sha256": "6e9c69f30b0e453a2d498381dd1e9aa06d237b01bbb11e43af12619c9815f117",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/jax_mole_compact_sac_benchmark.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/jax_mole_continuous_sac.py",
+      "bytes": 44007,
+      "sha256": "93d7a063d9cddc1ee01ddca831f24377facadbd513a62fbd18227238ce52a14f",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/jax_mole_continuous_sac.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/jax_mole_microbatch_distributed.py",
+      "bytes": 48208,
+      "sha256": "8189088e774258639c5607753bc1a379868c4f89cc7ca786252e25709f5141a8",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/jax_mole_microbatch_distributed.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/jax_mole_microbatch_evaluate.py",
+      "bytes": 9422,
+      "sha256": "e8070044db824cd53197cf241a6c49494e2e48b9d14a11aff9581a6970dd1695",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/jax_mole_microbatch_evaluate.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/mole_plane_archive.py",
+      "bytes": 5473,
+      "sha256": "a73e620bd7c00cc1ee13699479bebcc0be1fcc9c0c43bc4e8857ae2d37595a62",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/mole_plane_archive.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/summarize_mole_jax_system_efficiency.py",
+      "bytes": 10700,
+      "sha256": "0db2d1e03c69924a5ef6b876bc5eef6681b2c06e257a6e1dbe83b2256a0e7db2",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/summarize_mole_jax_system_efficiency.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/summarize_mole_microbatch_evaluation.py",
+      "bytes": 7779,
+      "sha256": "6404fd51540cd2622be1540a96c64f77631e17f4d0e5bc0bd9e2e0191a5735b7",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/summarize_mole_microbatch_evaluation.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/validate_mole_training_stage.py",
+      "bytes": 6050,
+      "sha256": "ada4dd64582db75afd52a7ea9aa4012eba6beec7855f900353625c181d9a84b1",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/validate_mole_training_stage.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/verify_archive.py",
+      "bytes": 5037,
+      "sha256": "e2027a2b1b3033771ac066b66fcd94223d53ac35b376eb3054f32aeb1569afc1",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/verify_archive.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/scripts/verify_mole_plane_archive.py",
+      "bytes": 3899,
+      "sha256": "65c016a433b1db1d6dbae2dd8cd9eba9ae62cf4721d3147a89bfffea2ebba546",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/scripts/verify_mole_plane_archive.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/evaluation/eval_mole_n9_directional_windows.py",
+      "bytes": 25642,
+      "sha256": "b1d21a316c53c12db492fcd86b29a6d947c4e082eb1579eb5e08c94762b93560",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/evaluation/eval_mole_n9_directional_windows.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/evaluation/eval_mole_n9_wp6_formal.py",
+      "bytes": 26207,
+      "sha256": "b625d0ef95022bd19bf7259bf45d0c996ef9202e3af774c706a8ae6d1b98cadd",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/evaluation/eval_mole_n9_wp6_formal.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/evaluation/mole_n9_wp7_contract.py",
+      "bytes": 3594,
+      "sha256": "07778c85cf9ce640e0be26a1e055425b987e43c23c0c81e8905ba5eb012e1995",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/evaluation/mole_n9_wp7_contract.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/evaluation/summarize_mole_n9_wp7.py",
+      "bytes": 9939,
+      "sha256": "aa37d1a6448e263ea1531dd73445a43a061f58e8b918b845c99a28db610ec8fd",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/evaluation/summarize_mole_n9_wp7.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/incompact3d_staggered.py",
+      "bytes": 22932,
+      "sha256": "bfa3388eda6fa477b88af135047f9e87213641ef504d96c78609c84667c04b4f",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/incompact3d_staggered.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/jax_mole_compact_sac_benchmark.py",
+      "bytes": 110619,
+      "sha256": "f65b1a78e8828fe084fb83c57c0968754ac9cf53922b3361c658e691bc2f1066",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/jax_mole_compact_sac_benchmark.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/jax_mole_continuous_sac.py",
+      "bytes": 62547,
+      "sha256": "0a1b3354ff14da2737b45e8b00f81f0610fc0794b391b82cd6183ca3dd363a42",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/jax_mole_continuous_sac.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/jax_mole_crossq.py",
+      "bytes": 15808,
+      "sha256": "46579a9c9dc559d3e0598fcf6abd663897eafa7da94765b436ef4b07066a17f0",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/jax_mole_crossq.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/jax_mole_direction_geometry.py",
+      "bytes": 8441,
+      "sha256": "f14c5d84f5c40f00753698009734c5b532aea957390b576bc7f79a29ec5bd1e5",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/jax_mole_direction_geometry.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/jax_mole_graph_sac_directional.py",
+      "bytes": 35213,
+      "sha256": "7313d989700634ff06d147f8ad4ceb460efcc915ee6b22fdef4f661e58232fc3",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/jax_mole_graph_sac_directional.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/jax_mole_graph_sac_v2.py",
+      "bytes": 24136,
+      "sha256": "c3ff0b90a31c7d15e9cba204502b3c2856c8a8f65d851951a3d1bd4767d3c3c7",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/jax_mole_graph_sac_v2.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/jax_mole_layouts.py",
+      "bytes": 6571,
+      "sha256": "08798f5b2fe790da66a82bf75ae658ea5330b3caad4e17bbd1a6ecadf3d972eb",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/jax_mole_layouts.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/jax_mole_microbatch_distributed.py",
+      "bytes": 173693,
+      "sha256": "94737423db7156f437a9222b441befdfc0cda864b3c2007d9676569c31e7fbe8",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/jax_mole_microbatch_distributed.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/jax_mole_n9_auditable_replay.py",
+      "bytes": 6248,
+      "sha256": "f34312652d74a06be512514b2b78e4f3b18e72219796344a23caa737fb51f615",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/jax_mole_n9_auditable_replay.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/jax_mole_n9_direction_scheduler.py",
+      "bytes": 5934,
+      "sha256": "184f9dec00b8f9c0ed49d368e670609180b57ecb5c50649105b21de2149bfbdc",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/jax_mole_n9_direction_scheduler.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/jax_mole_n9_million_protocol.py",
+      "bytes": 9059,
+      "sha256": "7275534357743525f9099e983666608bdf01c846886547bdb17a7b8acd9bb8b9",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/jax_mole_n9_million_protocol.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/mole_n9_replay_branching.py",
+      "bytes": 5999,
+      "sha256": "c46e7dfd7584c695596d8fbf173105052f7c93eda6eb643c983763f3ea5c042a",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/mole_n9_replay_branching.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/source/training/mole_plane_archive.py",
+      "bytes": 5596,
+      "sha256": "2543274dea4617cdc4b76444ee52fd12540d89f87c8847d91d080df713a23699",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/source/training/mole_plane_archive.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/analyze_mole_precursor_maturity.py",
+      "bytes": 8655,
+      "sha256": "d1a60683533da18d1f3333522b540df1bac3ed7ddae23a7638f5ea73f3728933",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/analyze_mole_precursor_maturity.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/archive_mole_large_scale_block.py",
+      "bytes": 3170,
+      "sha256": "83075b8bdbd343a4919afa4c63d64aba9805633b8149d8ffd3cf2015195a2fe1",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/archive_mole_large_scale_block.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/benchmark_mole_farm_scale_collector.py",
+      "bytes": 8800,
+      "sha256": "81d74b7d5e329af88eac2b554000f4c815440bf0c639d1636e3067f59fa447ae",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/benchmark_mole_farm_scale_collector.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/check_paper1_n81_timestep_inputs_20261013.py",
+      "bytes": 8901,
+      "sha256": "9cd631e844974199dc16faff5c291968e57222c8e67a0472bd95799863f073c6",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/check_paper1_n81_timestep_inputs_20261013.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/cute_compact_derivative.py",
+      "bytes": 4458,
+      "sha256": "def698edc465b529e6c2c30e84d973598c13aecb1adf76375f1c9030006307ae",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/cute_compact_derivative.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/cute_staggered_y.py",
+      "bytes": 10809,
+      "sha256": "d0e73339a3509f9afe4dc80f1cd560490428047bbb38dc273b15d2db9198a4dc",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/cute_staggered_y.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/eval_mole_large_scale_paired.py",
+      "bytes": 9337,
+      "sha256": "aa7897ae55edd22bee27c44d30cf374740d74a477d6af9aac9dabeee79ec1839",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/eval_mole_large_scale_paired.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/generate_mole_plane_archive.py",
+      "bytes": 16839,
+      "sha256": "6e353018dd3f51a58fb2aaf834fd7a2297ca16a622f75ee35d62d8dc8829b8fd",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/generate_mole_plane_archive.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/generate_mole_precursor_resumable.py",
+      "bytes": 28142,
+      "sha256": "b142cd50aeb4637cb49ea5e590462954cd063dd091b38d6bff665e7fb9922bc0",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/generate_mole_precursor_resumable.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/incompact3d_filter.py",
+      "bytes": 10838,
+      "sha256": "7e8289c297ac7f5f83c940f305cb0931d6b642d134ef3c438570bbf1134d8aa4",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/incompact3d_filter.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/incompact3d_staggered.py",
+      "bytes": 22932,
+      "sha256": "bfa3388eda6fa477b88af135047f9e87213641ef504d96c78609c84667c04b4f",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/incompact3d_staggered.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/jax_mole_case_benchmark.py",
+      "bytes": 34883,
+      "sha256": "eaa0717fc1655c411f6e1003cddf339d86f571fbc05f1a860bf1ca07f6fbaffe",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/jax_mole_case_benchmark.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/jax_mole_compact_sac_benchmark.py",
+      "bytes": 110619,
+      "sha256": "f65b1a78e8828fe084fb83c57c0968754ac9cf53922b3361c658e691bc2f1066",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/jax_mole_compact_sac_benchmark.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/jax_mole_continuous_sac.py",
+      "bytes": 65539,
+      "sha256": "3256288560a0008da2224bf22f903b4a91863c45e06f038808e6364c7e196c04",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/jax_mole_continuous_sac.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/jax_mole_crossq.py",
+      "bytes": 15808,
+      "sha256": "46579a9c9dc559d3e0598fcf6abd663897eafa7da94765b436ef4b07066a17f0",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/jax_mole_crossq.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/jax_mole_direction_geometry.py",
+      "bytes": 8441,
+      "sha256": "f14c5d84f5c40f00753698009734c5b532aea957390b576bc7f79a29ec5bd1e5",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/jax_mole_direction_geometry.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/jax_mole_graph_sac_directional.py",
+      "bytes": 35213,
+      "sha256": "7313d989700634ff06d147f8ad4ceb460efcc915ee6b22fdef4f661e58232fc3",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/jax_mole_graph_sac_directional.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/jax_mole_graph_sac_v2.py",
+      "bytes": 29738,
+      "sha256": "0c6eccc791255c3df326205389f799c749bd45d584ae89098d2cd785d7ac13bb",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/jax_mole_graph_sac_v2.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/jax_mole_layouts.py",
+      "bytes": 6571,
+      "sha256": "08798f5b2fe790da66a82bf75ae658ea5330b3caad4e17bbd1a6ecadf3d972eb",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/jax_mole_layouts.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/jax_mole_microbatch_distributed.py",
+      "bytes": 191757,
+      "sha256": "7ac136f70cf905af4a76171f7f2138a0df07595a97fc4c6ab54f8d504b2665c6",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/jax_mole_microbatch_distributed.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/jax_mole_n9_auditable_replay.py",
+      "bytes": 6248,
+      "sha256": "f34312652d74a06be512514b2b78e4f3b18e72219796344a23caa737fb51f615",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/jax_mole_n9_auditable_replay.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/jax_mole_n9_direction_scheduler.py",
+      "bytes": 9759,
+      "sha256": "ebd62f8085ed4b5430935f8a206c01551ef74fc09bf22e8b9d034423c0373f18",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/jax_mole_n9_direction_scheduler.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/jax_mole_n9_million_protocol.py",
+      "bytes": 9059,
+      "sha256": "7275534357743525f9099e983666608bdf01c846886547bdb17a7b8acd9bb8b9",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/jax_mole_n9_million_protocol.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/launch_paper1_n81_phase_20261013.py",
+      "bytes": 3053,
+      "sha256": "8164c0739be41fee98abad11909c2bf5944cbdb41e6a970857ca6b3a23d0a86f",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/launch_paper1_n81_phase_20261013.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/mole_large_scale_evaluation.py",
+      "bytes": 4039,
+      "sha256": "b5bca1c3accafe099cdf58ff5a400dcaba7fa87d5be0f5c554959a7709f338d1",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/mole_large_scale_evaluation.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/mole_large_scale_metrics.py",
+      "bytes": 2580,
+      "sha256": "3b9a268c04906bdf73f2021e4fa120c5d1b554ce8406eb9c35090031ce9785ec",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/mole_large_scale_metrics.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/mole_n9_actor_feedback_prototype.py",
+      "bytes": 2431,
+      "sha256": "e6f9487672d0f72051c0b11e712a155ee34ac37e9037c56147300880ddc45312",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/mole_n9_actor_feedback_prototype.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/mole_n9_four_rank_gradients.py",
+      "bytes": 874,
+      "sha256": "6fd21e52650d6f88a36dd1aa5d5973ffbc02ccb0b2a8e2fd8a017a5c7e1ca63b",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/mole_n9_four_rank_gradients.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/mole_n9_replay_branching.py",
+      "bytes": 5999,
+      "sha256": "c46e7dfd7584c695596d8fbf173105052f7c93eda6eb643c983763f3ea5c042a",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/mole_n9_replay_branching.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/mole_n9_temporal_credit_target.py",
+      "bytes": 2174,
+      "sha256": "964e7d2c04d3a00e048c673043739e83639f6b7609c15553199878004787ca7b",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/mole_n9_temporal_credit_target.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/mole_plane_archive.py",
+      "bytes": 9189,
+      "sha256": "fe68a296549469605cb8a2b3f494c0397a330d902d645068e95e446e702773ee",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/mole_plane_archive.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/mole_training_horizon.py",
+      "bytes": 4553,
+      "sha256": "dff291c437a4ef8b2fb12e61a59dc167be53fa188bf5c8b67165c8c1adb67115",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/mole_training_horizon.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/paper1_n81_collection_ablation_20261013.py",
+      "bytes": 23663,
+      "sha256": "386bdd0b569201057b43720db8cd26b9af9ad2af68d2fc8138f8320e6ce31147",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/paper1_n81_collection_ablation_20261013.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/paper1_n81_learning_curve_20261013.py",
+      "bytes": 20464,
+      "sha256": "4e5b754c0f31299ac92dcd8d0371cb162d7ec951b5b23513d9ba4d7e4e484d42",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/paper1_n81_learning_curve_20261013.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/paper1_n81_timestep_sensitivity_20261013.py",
+      "bytes": 21662,
+      "sha256": "61fa10cd0207462f64cbcfda25e1f07f7af0a5458b2a3f4e4befcd519aa23046",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/paper1_n81_timestep_sensitivity_20261013.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/prepare_mole_large_scale_run.py",
+      "bytes": 4811,
+      "sha256": "bfcb353524c3e966cd638454a4b08472ce6b2540b964d6d72c1b0c7b476e8856",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/prepare_mole_large_scale_run.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/probe_mole_large_scale_runtime.py",
+      "bytes": 5963,
+      "sha256": "798d72e0dca8b1b453e528a340b099bac95d6694fd1d8196c01ae00f9b507887",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/probe_mole_large_scale_runtime.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/profile_mole_n81_efficiency.py",
+      "bytes": 35371,
+      "sha256": "924ed7469334f53fdb4154ed0844a5b971903e4292db984425cefc80f33c1488",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/profile_mole_n81_efficiency.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/run_mole_large_scale_initial_stage.py",
+      "bytes": 12112,
+      "sha256": "ed2e85217ee162929dfdcf1481a5cfb4477017bf96d06eb863c9dec469576586",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/run_mole_large_scale_initial_stage.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/run_mole_large_scale_queued_sources.py",
+      "bytes": 5551,
+      "sha256": "774d102eeeea01f24d9c976511cc6a4679ab700f8d564141b9d74cd6855eab95",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/run_mole_large_scale_queued_sources.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/run_mole_large_scale_source_to_training.py",
+      "bytes": 19450,
+      "sha256": "83ce0d4562f0ca9f3d6b4b18ef7dcd1e517c0c116c78fac47f417aa88d3a671d",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/run_mole_large_scale_source_to_training.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/run_mole_n81_efficiency_stage.py",
+      "bytes": 13326,
+      "sha256": "422b35aca0027e42954ba04b786225237564f3d1e34cea04877e8440e76ad2ea",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/run_mole_n81_efficiency_stage.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/run_mole_n81_final_evaluation.py",
+      "bytes": 9662,
+      "sha256": "d55474ef6745421ec3f34fd40a0a7ce0062ea87d2175d9812c60d59facf7c217",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/run_mole_n81_final_evaluation.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/run_paper1_n81_budgeted_job_20261013.py",
+      "bytes": 6485,
+      "sha256": "e82a8a7e32927cc1216356e84f68f2eb65d2a3acf1aed8fb9e5aee6debbae454",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/run_paper1_n81_budgeted_job_20261013.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/summarize_mole_n81_final_evaluation.py",
+      "bytes": 22216,
+      "sha256": "3599687cb2814b9ac97339c64058441941e3803f0b586ec1b1450abb82ccbf86",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/summarize_mole_n81_final_evaluation.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_mole_compact_replay_checkpoint.py",
+      "bytes": 6816,
+      "sha256": "f9a8beb09c9d4a8fffd11d55805f09e61578a10983f1c042991acb9fe54e8c7e",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_mole_compact_replay_checkpoint.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_mole_large_scale_contracts.py",
+      "bytes": 6725,
+      "sha256": "46a3d13747a19433d7ccdb35dd4f6617e2371c2cabaaddc371dc76c2d3d1e934",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_mole_large_scale_contracts.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_mole_large_scale_workflow.py",
+      "bytes": 2339,
+      "sha256": "f681da4225f23127832f73eb18fd22198395b696297d64d3a771fe8649c607d0",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_mole_large_scale_workflow.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_mole_n81_efficiency_profile.py",
+      "bytes": 16161,
+      "sha256": "ba75b308373333289513c4c56f8ccc9fe79cd82d078c69b65d22ae0c1937b927",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_mole_n81_efficiency_profile.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_mole_n81_efficiency_stage.py",
+      "bytes": 9138,
+      "sha256": "5b79403be17dcfc4ce53100d8637500408af374de659cbdb70f1f55e2e48f881",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_mole_n81_efficiency_stage.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_mole_n81_yaw_observation_contract.py",
+      "bytes": 3593,
+      "sha256": "bdaf51a9a45b7e63429ad9a145d3c5f4a41cabe7ce77dc9bfe2ed7ee63146cb5",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_mole_n81_yaw_observation_contract.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_mole_n9_milestone_checkpoint_contract.py",
+      "bytes": 867,
+      "sha256": "8f884e684b9f2493e8988ff9ec4a9d402aa70fc1229a386f5a52fd294e6b9926",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_mole_n9_milestone_checkpoint_contract.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_mole_plane_archive.py",
+      "bytes": 4640,
+      "sha256": "8bbb5c7d6d692462397f932befe85cd3b146b5e0eba2f29bd0c43f03604a08f5",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_mole_plane_archive.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_mole_training_horizon.py",
+      "bytes": 2882,
+      "sha256": "e48d840811649d36c7df68bd5be881360ddd5bf5d2c143d0ca51d7551dbaeab4",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_mole_training_horizon.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_paper1_n81_collection_ablation_20261013.py",
+      "bytes": 5812,
+      "sha256": "2c0fc4f2d2f82f3c247d228230821c9f32c8783f3a2674e3a83b34bfa5ddd3a0",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_paper1_n81_collection_ablation_20261013.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_paper1_n81_learning_curve_20261013.py",
+      "bytes": 8516,
+      "sha256": "d5d818170f2f6fea64de225cdff498aac0e9eecdc6bd7cc89ccfb412379d8430",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_paper1_n81_learning_curve_20261013.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_paper1_n81_timestep_sensitivity_20261013.py",
+      "bytes": 8140,
+      "sha256": "d731395e2f4c9ee8d9391727519cd6899a68819db7a39089c11e168bd9d88e97",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_paper1_n81_timestep_sensitivity_20261013.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_summarize_mole_n81_final_evaluation.py",
+      "bytes": 13101,
+      "sha256": "093a24bb9c5d40c055abef48cbb625cad655ce237ca90bd30d10fed4e223ff32",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_summarize_mole_n81_final_evaluation.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/test_verify_mole_precursor_state.py",
+      "bytes": 2335,
+      "sha256": "f5f129afc828ba7679d1b2a493cfcbf6a19faf63a524ba51123d73b7b25e686e",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/test_verify_mole_precursor_state.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/validate_mole_farm_scale_uniform.py",
+      "bytes": 10115,
+      "sha256": "9ece02c11678f6dccc9562c70f9e3d284a2bf23a457750ff81d9a5598b04c522",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/validate_mole_farm_scale_uniform.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/verify_mole_large_scale_archive.py",
+      "bytes": 2932,
+      "sha256": "497a312a5436bfa136aebba71fdc7a70ffd012cbbba16f9b4f5c6ed884de2d17",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/verify_mole_large_scale_archive.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/verify_mole_n81_final_inputs.py",
+      "bytes": 3533,
+      "sha256": "37f6e48ee4e5b8668d84325f5f84b858a9f2ab302f714217dd171493310a9007",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/verify_mole_n81_final_inputs.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/source/codes/verify_mole_precursor_state.py",
+      "bytes": 4957,
+      "sha256": "c303f9e034fe02b6451d9da3a372e5ba5960a9025fcedee8bfa971f9214d213c",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/source/codes/verify_mole_precursor_state.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/wind_energy_closure/source/codes/paper1_wind_energy_closure_20261014.py",
+      "bytes": 14912,
+      "sha256": "8fc6b3bd724ca5c30d36090700d8c264fe31c0a6d6856754ffb371a9d92a00c8",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/wind_energy_closure/source/codes/paper1_wind_energy_closure_20261014.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/wind_energy_closure/source/codes/run_paper1_wind_energy_closure_20261014.py",
+      "bytes": 5182,
+      "sha256": "0323f273e1d4421723ce3bdfb9c35c69a13cb54a6177e8b92f0f669e896cd8b4",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/wind_energy_closure/source/codes/run_paper1_wind_energy_closure_20261014.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/wind_energy_closure/source/codes/test_paper1_wind_energy_closure_20261014.py",
+      "bytes": 3016,
+      "sha256": "85917e5cd61edc3cacd3db033bbdbac11c211ce26fed966bff74e2a1cc37a10b",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/wind_energy_closure/source/codes/test_paper1_wind_energy_closure_20261014.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/wind_energy_closure/source/executed/codes/paper1_n81_collection_ablation_20261013.py",
+      "bytes": 23663,
+      "sha256": "386bdd0b569201057b43720db8cd26b9af9ad2af68d2fc8138f8320e6ce31147",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/wind_energy_closure/source/executed/codes/paper1_n81_collection_ablation_20261013.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/wind_energy_closure/source/executed/codes/paper1_n81_timestep_sensitivity_20261013.py",
+      "bytes": 21662,
+      "sha256": "61fa10cd0207462f64cbcfda25e1f07f7af0a5458b2a3f4e4befcd519aa23046",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/wind_energy_closure/source/executed/codes/paper1_n81_timestep_sensitivity_20261013.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/wind_energy_closure/source/executed/codes/paper1_wind_energy_closure_20261014.py",
+      "bytes": 14829,
+      "sha256": "6116504cbf0b4a5dc13bffd017349421d3afc559a3ace16c61691ab742a2496e",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/wind_energy_closure/source/executed/codes/paper1_wind_energy_closure_20261014.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/wind_energy_closure/source/executed/codes/run_paper1_wind_energy_closure_20261014.py",
+      "bytes": 5182,
+      "sha256": "0323f273e1d4421723ce3bdfb9c35c69a13cb54a6177e8b92f0f669e896cd8b4",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/wind_energy_closure/source/executed/codes/run_paper1_wind_energy_closure_20261014.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/wind_energy_closure/source/executed/codes/test_paper1_wind_energy_closure_20261014.py",
+      "bytes": 3016,
+      "sha256": "85917e5cd61edc3cacd3db033bbdbac11c211ce26fed966bff74e2a1cc37a10b",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/wind_energy_closure/source/executed/codes/test_paper1_wind_energy_closure_20261014.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/low_workspace/benchmark_full_flow.py",
+      "bytes": 12857,
+      "sha256": "9b8e63bfc8427c882800dde24b8c8327316811383a720c0824a079cd5ec7f924",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/low_workspace/benchmark_full_flow.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/low_workspace/benchmark_full_flow_v1_eager_setup.py",
+      "bytes": 11484,
+      "sha256": "6357afce2bb19c65ea11dbc227e8598f450a266ab8745e4a215f732d5a87598f",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/low_workspace/benchmark_full_flow_v1_eager_setup.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/low_workspace/gen_diagnostic_inputs.py",
+      "bytes": 6962,
+      "sha256": "fe0fe729c1ca90ba78a71d7c401efdd2f5d0723d7a9164d22fc15068ed93ac7c",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/low_workspace/gen_diagnostic_inputs.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/low_workspace/gen_loaded_inputs.py",
+      "bytes": 7833,
+      "sha256": "622b1173738d1b61650e8eaa05bb002007b5eec9747f0a6df0991d8db1177e9e",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/low_workspace/gen_loaded_inputs.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/low_workspace/plot_resource_tradeoff.py",
+      "bytes": 16190,
+      "sha256": "9f8b0255febd20b285b4da9e7cd9ed69191ed6d48587d0fe2db2f707d9cb3933",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/low_workspace/plot_resource_tradeoff.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/low_workspace/streaming_adm.py",
+      "bytes": 7684,
+      "sha256": "c570b8b3c3e2a8332ee3f9e5e44893cae4f4d62f6b557734e7326ed50aaad044",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/low_workspace/streaming_adm.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/low_workspace/test_export_small_results.py",
+      "bytes": 6634,
+      "sha256": "b0f69e711f99dcf17413a942ba6931cf73ff5561360c3b4377bd6511b0f7a6d8",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/low_workspace/test_export_small_results.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/low_workspace/test_streaming_source.py",
+      "bytes": 3752,
+      "sha256": "45c274d871547029f4416b6b846395f6929f7f9c4fbd9f74bf936c2f68c171b0",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/low_workspace/test_streaming_source.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/low_workspace/vendor/profile_data.py",
+      "bytes": 17764,
+      "sha256": "d8a2a72c2607c390f2d3ed1508209d515ad4fbf833fa1602ab9da519b3596ec4",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/low_workspace/vendor/profile_data.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/low_workspace/vendor/visual_qa.py",
+      "bytes": 12677,
+      "sha256": "67675709e523c76e2748d50749de7bc6332f07df865379b26d024321fb40120f",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/low_workspace/vendor/visual_qa.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/log_analysis/analyze_existing_resources.py",
+      "bytes": 31000,
+      "sha256": "f9172adbc3b79cc0a8f7d8f71a6a1dedcaabe7718167eb3ab99a04df991a6332",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/log_analysis/analyze_existing_resources.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/log_analysis/analyze_loaded_diagnostic.py",
+      "bytes": 4640,
+      "sha256": "40bc59227e160418a3c9ec0cbe953e0e1de548e9e8ffd2bbef8f48ccfd884d51",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/log_analysis/analyze_loaded_diagnostic.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/log_analysis/analyze_new_campaign.py",
+      "bytes": 32338,
+      "sha256": "9df4506584b990b40321a47d08b4c1b731a826440c75611972e4bdaf09ae4056",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/log_analysis/analyze_new_campaign.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/log_analysis/build_portable_inputs.py",
+      "bytes": 2694,
+      "sha256": "dedaca8da1d0177c3c6e700bc6b9a79abb9812cef986683b29c35b4697d330a1",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/log_analysis/build_portable_inputs.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/log_analysis/run_existing_resources_portable.py",
+      "bytes": 3428,
+      "sha256": "b0004df6bd27765bac92bce6bf79b3840c1e6df00d8090570dcedf242e6f525c",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/log_analysis/run_existing_resources_portable.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/log_analysis/run_new_resources_portable.py",
+      "bytes": 2760,
+      "sha256": "507f48337fe7189eefa8b2b334011fd8baa2e44606b6e505c0fbc75d3983b3cb",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/log_analysis/run_new_resources_portable.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/log_analysis/test_new_campaign_analysis.py",
+      "bytes": 8398,
+      "sha256": "0bced64daeb7b0f140e549854c0d6099d637f382766c6479cce96b2366debf75",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/log_analysis/test_new_campaign_analysis.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/log_analysis/test_validate_resource_export.py",
+      "bytes": 2845,
+      "sha256": "58adda075b15e30f9e664e6265cf0b2199f8efa5e2ad50387e1e970c1ed143c1",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/log_analysis/test_validate_resource_export.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/resource_uplift_20261016/extension/log_analysis/validate_resource_export.py",
+      "bytes": 8261,
+      "sha256": "0122dbd17c697afee3709a7b6995078aebdfa164a6c86d91d8ea33d0afcdbc4e",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/resource_uplift_20261016/extension/log_analysis/validate_resource_export.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/prefix_replay/prior_mainline/scripts/extract_evidence.py",
+      "bytes": 27827,
+      "sha256": "f634fc5569fa8d6175a082020411f98e5614dd2a972f6a259f151c20f4cd89fc",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/prefix_replay/prior_mainline/scripts/extract_evidence.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/prefix_replay/prior_mainline/scripts/inlet_prefix_contract.py",
+      "bytes": 6174,
+      "sha256": "8e9f4c6f784ca8c6d3eee819cfe3a6d80f380425281eef306cee260f0b9a9dd0",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/prefix_replay/prior_mainline/scripts/inlet_prefix_contract.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/prefix_replay/prior_mainline/scripts/run_saved_state_prefix.py",
+      "bytes": 12969,
+      "sha256": "280b788bedc1d19dcf442cda2a9646e7e1f643ea1380e0273fbea999e61e297f",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/prefix_replay/prior_mainline/scripts/run_saved_state_prefix.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/prefix_replay/prior_mainline/scripts/saved_prefix_cpu_contract.py",
+      "bytes": 5710,
+      "sha256": "2207632e6fe5b415a80726fa74160aa61b54e652c909ea0321dd1e5b3bb5ef08",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/prefix_replay/prior_mainline/scripts/saved_prefix_cpu_contract.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/prefix_replay/prior_mainline/scripts/test_inlet_prefix_contract.py",
+      "bytes": 3567,
+      "sha256": "21fa08c3f14c31ec178663ac1e322a4c79fff7ca23f373b1006b176370cd6674",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/prefix_replay/prior_mainline/scripts/test_inlet_prefix_contract.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/prefix_replay/prior_mainline/scripts/test_saved_state_prefix.py",
+      "bytes": 1646,
+      "sha256": "b597e220ae8f0f063bf211a639fdf97ad025bce0833203b097d4b56b15bc757e",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/prefix_replay/prior_mainline/scripts/test_saved_state_prefix.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/prefix_replay/prior_mainline/scripts/verify_extension.py",
+      "bytes": 460,
+      "sha256": "5bd55096c4c93f3dec5139236995f29182326f3f08ddeae2f4d6363dfa12bb9b",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/prefix_replay/prior_mainline/scripts/verify_extension.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/prefix_replay/acceptance/audit_prefix_contract.py",
+      "bytes": 5153,
+      "sha256": "c51ee7ac021f9333df571b31d5a1ecd2cc5a7bd54ff977eecfdf87474d3ed6b6",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/prefix_replay/acceptance/audit_prefix_contract.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/prefix_replay/acceptance/verify_corrected_prefix.py",
+      "bytes": 15443,
+      "sha256": "0296cb655fac1c9fb0d09c34fe573c1dadb2b6a779455370e9c59d13e346003e",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/prefix_replay/acceptance/verify_corrected_prefix.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/prefix_replay/acceptance/verify_returned_prefix.py",
+      "bytes": 11734,
+      "sha256": "7631f708ba9d1925a595a8c80b9ec1ac5a04c854ee918c8d235830a032b9ff06",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/prefix_replay/acceptance/verify_returned_prefix.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/prefix_replay/runtime/tools/run_saved_state_prefix.py",
+      "bytes": 12969,
+      "sha256": "280b788bedc1d19dcf442cda2a9646e7e1f643ea1380e0273fbea999e61e297f",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/prefix_replay/runtime/tools/run_saved_state_prefix.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/prefix_replay/runtime/tools/saved_prefix_cpu_contract.py",
+      "bytes": 5710,
+      "sha256": "2207632e6fe5b415a80726fa74160aa61b54e652c909ea0321dd1e5b3bb5ef08",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/prefix_replay/runtime/tools/saved_prefix_cpu_contract.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/scripts/render_current_figures.py",
+      "bytes": 1655,
+      "sha256": "1ee6c31ae18160d0d3cbea262ff7d099fcabe6f71af64a20358c0bc2a586e47d",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/scripts/render_current_figures.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/scripts/render_focused_figures.py",
+      "bytes": 1666,
+      "sha256": "bbf2cca7dc1105ce6bf92524c97ccf23e5b61d8259cdbb798b4c14cef9b49e21",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/scripts/render_focused_figures.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/scripts/render_font_harmony_figures.py",
+      "bytes": 1662,
+      "sha256": "5234c23433eba6f7c8d054f41c20ddec6f06adbf990809384d413ab5c91d7c03",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/scripts/render_font_harmony_figures.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/scripts/render_startup_polish_figures.py",
+      "bytes": 1664,
+      "sha256": "46a2c43fa866cbc77c23095b0dbf599b956d1e6f51a49aeab7e0bacf79b787ac",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/scripts/render_startup_polish_figures.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/scripts/run_reproduction.py",
+      "bytes": 6669,
+      "sha256": "cf0a356be8702fed828000819a2ff4051fe6729dc632d10306fd491029885a6d",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/scripts/run_reproduction.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/scripts/validate_focused_revision.py",
+      "bytes": 2108,
+      "sha256": "3b38fca27c7606e8efd25caccc2b8bd268df66044bd6bd6f736c4d567506287f",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/scripts/validate_focused_revision.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/scripts/validate_font_harmony.py",
+      "bytes": 2312,
+      "sha256": "fa8877673f1d4f99f7f9ec9483f75d247828b619bfced243e5f80625a8932840",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/scripts/validate_font_harmony.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/scripts/validate_startup_polish.py",
+      "bytes": 2314,
+      "sha256": "1e71b61421234476cdee2a3f597d7a7be8786c0bc3af181b233b141245fa5a9e",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/scripts/validate_startup_polish.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/scripts/validate_visual_revision.py",
+      "bytes": 2090,
+      "sha256": "fab99b42ad3eeb7b80ce809a0ccb4386794ddd294ecca904d87a2887efbae955",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/scripts/validate_visual_revision.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/scripts/verify_final_package.py",
+      "bytes": 3299,
+      "sha256": "c2eb004913b3321cdae1e21bf499f4832d4e4467f2567947e2375dd23dff21a7",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/scripts/verify_final_package.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/access_materials/run_cpu_acceptance.py",
+      "bytes": 9102,
+      "sha256": "b4b309f22fc02d192204ce5e9a071799f08990f128260ba56bba0f5d7f145e38",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/access_materials/run_cpu_acceptance.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/access_materials/validate_current_claim_paths.py",
+      "bytes": 4782,
+      "sha256": "f83fe1bb357e3d042329b819b095b4aefd5ac9140c93e938c859a1dba27d750a",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/access_materials/validate_current_claim_paths.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/access_materials/validate_current_navigation.py",
+      "bytes": 15145,
+      "sha256": "3757dde6671b67e185e56748ad87de64f771a3092583ed01aea1fb61cba656ed",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/access_materials/validate_current_navigation.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/access_materials/verify_download.py",
+      "bytes": 1691,
+      "sha256": "e408ed09b78672ddb763a3fa6d7c9aa1274ed31d5abfa00998e0837e7acbf0e1",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/access_materials/verify_download.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/validate_n3_bridge.py",
+      "bytes": 14488,
+      "sha256": "91cce92ef61fc0e51128da2485fb870ac2ac888ad4cad1815b6b818b55299446",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/validate_n3_bridge.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/validate_n9_bridge.py",
+      "bytes": 22869,
+      "sha256": "651d512dd1c1a9bf2de8c0ce5d02afa9886221ac769fa2ff5d48019671f9b61c",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/validate_n9_bridge.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/test_n9_negative_controls.py",
+      "bytes": 4019,
+      "sha256": "fdc16afde815cef15d43542f08898e2eca217c90ab42bbba669283acf42fac06",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/test_n9_negative_controls.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_intermediate/scripts/validate_roster_change.py",
+      "bytes": 1551,
+      "sha256": "13d305225681ebdb1d8199ae692b341cdfab20c99b064c8e23d25acaaf50c655",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_intermediate/scripts/validate_roster_change.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/n9_review_closure_20261015/validate_clarifications.py",
+      "bytes": 6050,
+      "sha256": "bcb1a9b4dfd5dc30de6aee351675bc8f41763324e0be1b783129969409ee1aa4",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/n9_review_closure_20261015/validate_clarifications.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/wind_energy_closure/reanalyse_closure.py",
+      "bytes": 4694,
+      "sha256": "f4a53ba5cb7b35e6fca529eac0819e8c94def6e0c9099b47d4ea9feb2c80d3c7",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/wind_energy_closure/reanalyse_closure.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/runtime/actor_cpu_smoke.py",
+      "bytes": 5670,
+      "sha256": "4f7cd30aec88261dec47b164eddb4f3a203d8231ef65fc8665bd9ba0d0b5666e",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/runtime/actor_cpu_smoke.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/runtime/check_runtime_contract.py",
+      "bytes": 4616,
+      "sha256": "6f1a2223add220151632a24cee3d85877972e5c590738b047be263ae4950e452",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/runtime/check_runtime_contract.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/runtime/resolve_run.py",
+      "bytes": 17004,
+      "sha256": "28c6228ad843b07b195c2882bd54fa939c71ebd349d0daf0604dd56b43cc8088",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/runtime/resolve_run.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/runtime/source_recipe.py",
+      "bytes": 4662,
+      "sha256": "74d3232a46549e03d93beda2b9d93cbba37f8a95c5207a40e69877080e7d187a",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/runtime/source_recipe.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/scripts/reanalyse.py",
+      "bytes": 21193,
+      "sha256": "3ec6c56f0ae6e03ea8508eb63b25600f97c6ea90b8ac61fe225fd3382871a952",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/scripts/reanalyse.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/scripts/verify_manifest.py",
+      "bytes": 3177,
+      "sha256": "d3e8879750e22ecf6934a82c26cb3a61f5e07254ae1647cdae674824616550af",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/scripts/verify_manifest.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/scripts/verify_package.py",
+      "bytes": 1997,
+      "sha256": "caadfaa3afb82ad8b55ebad79da2a37de343caead8f72f3ae0daabf1885591dc",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/scripts/verify_package.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/scripts/frozen_plotting.py",
+      "bytes": 46584,
+      "sha256": "61fe9778fa99ef52923c65cb4e8592fe59e0f59d7cbce0c4ec347e9cef6cf2d3",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/scripts/frozen_plotting.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/payload/visual_revision/scripts/make_figures.py",
+      "bytes": 8060,
+      "sha256": "eb96339ebb64eeee53a6bfe539f40955bf36ae14a71c17b2aa14db6b881af995",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/scripts/make_figures.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/rebuild_figures.py",
+      "bytes": 2732,
+      "sha256": "4af08698fed2dd35d0d9f086b4502290067c915443bd65f65974c82a290c267a",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/rebuild_figures.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/run_cpu_acceptance.py",
+      "bytes": 5354,
+      "sha256": "2d1a804a256f308ac5dd51c5e0299311c40a79495c6d46a69a6b7ec4b6b30570",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/run_cpu_acceptance.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/verify_current_figures.py",
+      "bytes": 2530,
+      "sha256": "507ffcb12a08c7e2cdd27582558841ceade50d0b64a1839cd2df4b08b05e036d",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/verify_current_figures.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/verify_package.py",
+      "bytes": 2538,
+      "sha256": "888b660ed03db461ce46f380b33f5dc635b3566679103f1544830989c0f56e69",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/verify_package.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/redesign/control_story.py",
+      "bytes": 19027,
+      "sha256": "91310dc06cd65a19c153222033112cc07a298da967262d04049240ca33698ff2",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/redesign/control_story.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/redesign/method_story.py",
+      "bytes": 18709,
+      "sha256": "7d4e7ff73e1f3039ceccc57fbbf90daa97744e597238a8771728d0df772d9a2b",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/redesign/method_story.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/redesign/resource_story.py",
+      "bytes": 22574,
+      "sha256": "23b2b9f8c136b71f05d8c01345b81936988b4cb887a6452f50145ca86a5450fc",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/redesign/resource_story.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/redesign/story_common.py",
+      "bytes": 6230,
+      "sha256": "3ad66a699cd779aa121765a7ebe667f824575b4252185e5e352991f7da0186e2",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/redesign/story_common.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/data_figures/plot_revision.py",
+      "bytes": 33406,
+      "sha256": "1905cae34754a3ffba77b562f3ea90ace281710fe27c46419061c99e18479589",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/data_figures/plot_revision.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/data_figures/validate_export_fonts.py",
+      "bytes": 1582,
+      "sha256": "99b1f64016f90d67cbac76555e4d3c4e56f75f32663bd901b6aca5dc523fae80",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/data_figures/validate_export_fonts.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/data_figures/vendor/check_figure.py",
+      "bytes": 9709,
+      "sha256": "861191858ff47c5af5247f08d0759b14956a2a7e7d8eafcc6b414d37b9d70f06",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/data_figures/vendor/check_figure.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/data_figures/vendor/profile_data.py",
+      "bytes": 17764,
+      "sha256": "d8a2a72c2607c390f2d3ed1508209d515ad4fbf833fa1602ab9da519b3596ec4",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/data_figures/vendor/profile_data.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/data_figures/vendor/visual_qa.py",
+      "bytes": 12677,
+      "sha256": "67675709e523c76e2748d50749de7bc6332f07df865379b26d024321fb40120f",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/data_figures/vendor/visual_qa.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/flow_snapshot/extract_flow_snapshot.py",
+      "bytes": 5338,
+      "sha256": "1eb0687ed3183420d26ace588ec5c361426ecb4b16c6aeb8ff2d13571e59a754",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/flow_snapshot/extract_flow_snapshot.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/method_overview/draw_method_overview.py",
+      "bytes": 11064,
+      "sha256": "953a25380bd4ec61ed62f3f496adc685e03953b7d8f29aabfef98f09afda21d7",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/method_overview/draw_method_overview.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_policy_focus/render_n9_policy_focus.py",
+      "bytes": 11279,
+      "sha256": "553d0684a548ae871a667c69113b720061381aedfaf5dc1419759344a82a6f8a",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_policy_focus/render_n9_policy_focus.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_policy_focus/test_n9_visual_negative_controls.py",
+      "bytes": 2498,
+      "sha256": "842c8052a8dac5dba0e7b8105c0d873c97884f8ff90787058a5c2239f059ddf5",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_policy_focus/test_n9_visual_negative_controls.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_policy_focus/validate_n9_visual_data.py",
+      "bytes": 8348,
+      "sha256": "a67e0fc323db6b853cebcb991cac7dfeb04f8edff0e74340ea2731d6d0a10b6a",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_policy_focus/validate_n9_visual_data.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_policy_focus/vendor/check_figure.py",
+      "bytes": 9709,
+      "sha256": "861191858ff47c5af5247f08d0759b14956a2a7e7d8eafcc6b414d37b9d70f06",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_policy_focus/vendor/check_figure.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_policy_focus/vendor/profile_data.py",
+      "bytes": 17764,
+      "sha256": "d8a2a72c2607c390f2d3ed1508209d515ad4fbf833fa1602ab9da519b3596ec4",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_policy_focus/vendor/profile_data.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_policy_focus/vendor/visual_qa.py",
+      "bytes": 12677,
+      "sha256": "67675709e523c76e2748d50749de7bc6332f07df865379b26d024321fb40120f",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_policy_focus/vendor/visual_qa.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_policy_focus/verify_n9_policy_focus_exports.py",
+      "bytes": 2884,
+      "sha256": "de208f88cb9c4440eb34905ae9380e5af29c218562b977def8dc4a7e99195efe",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_policy_focus/verify_n9_policy_focus_exports.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_visual_story/render_n9_figures.py",
+      "bytes": 15114,
+      "sha256": "fbba11e21456a7b841cdccb7597e136f79ed903d76659e34a47e78a0290a5eaf",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_visual_story/render_n9_figures.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_visual_story/test_n9_visual_negative_controls.py",
+      "bytes": 2498,
+      "sha256": "842c8052a8dac5dba0e7b8105c0d873c97884f8ff90787058a5c2239f059ddf5",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_visual_story/test_n9_visual_negative_controls.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_visual_story/validate_n9_visual_data.py",
+      "bytes": 8348,
+      "sha256": "a67e0fc323db6b853cebcb991cac7dfeb04f8edff0e74340ea2731d6d0a10b6a",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_visual_story/validate_n9_visual_data.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_visual_story/vendor/check_figure.py",
+      "bytes": 9709,
+      "sha256": "861191858ff47c5af5247f08d0759b14956a2a7e7d8eafcc6b414d37b9d70f06",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_visual_story/vendor/check_figure.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_visual_story/vendor/profile_data.py",
+      "bytes": 17764,
+      "sha256": "d8a2a72c2607c390f2d3ed1508209d515ad4fbf833fa1602ab9da519b3596ec4",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_visual_story/vendor/profile_data.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_visual_story/vendor/visual_qa.py",
+      "bytes": 12677,
+      "sha256": "67675709e523c76e2748d50749de7bc6332f07df865379b26d024321fb40120f",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_visual_story/vendor/visual_qa.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/n9_visual_story/verify_n9_exports.py",
+      "bytes": 2523,
+      "sha256": "02571ee8405b3ebffc88d641bdb0325ea5f6c0997c09b3005359416888d821d5",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/n9_visual_story/verify_n9_exports.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/resource_uplift_20261016/plot_resource_tradeoff.py",
+      "bytes": 16190,
+      "sha256": "9f8b0255febd20b285b4da9e7cd9ed69191ed6d48587d0fe2db2f707d9cb3933",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/resource_uplift_20261016/plot_resource_tradeoff.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/resource_uplift_20261016/vendor/profile_data.py",
+      "bytes": 17764,
+      "sha256": "d8a2a72c2607c390f2d3ed1508209d515ad4fbf833fa1602ab9da519b3596ec4",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/resource_uplift_20261016/vendor/profile_data.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/current/figure_sources/resource_uplift_20261016/vendor/visual_qa.py",
+      "bytes": 12677,
+      "sha256": "67675709e523c76e2748d50749de7bc6332f07df865379b26d024321fb40120f",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/figure_sources/resource_uplift_20261016/vendor/visual_qa.py",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "requirements-cpu.txt",
+      "bytes": 115,
+      "sha256": "f98b32db728db9a9b6827453a8b67d8a79a42f1dcbebdea7aca192576ca50a84",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/requirements-cpu.txt",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "requirements-plot.txt",
+      "bytes": 79,
+      "sha256": "007d341f98c30aea23abd0c4c25216c5b4e6cb8d7f2e30c5b12dc8174fb62cdb",
+      "source_archive": "n81_20261018_portable_science.tar.gz",
+      "source_archive_sha256": "12eb6a9162a9998ed920499b06a7d0045ec41bb07510771b25fd4fa757e707f6",
+      "source_member": "n81_20261018_portable_science/requirements-plot.txt",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "requirements-les-observed.txt",
+      "bytes": 130,
+      "sha256": "f998f9cd8b0296637ad51b55e6b8dc5a9f93f080fe37f6ae85cdb1db43aa0bb3",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/payload/visual_revision/runtime/environment/requirements-mole-jax-cu12.txt",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/base/mole_reference/historical_source/environment/requirements_torchrl_0.3.1_gpu205_20260807.txt",
+      "bytes": 814,
+      "sha256": "4509d0db400042e10a1ab68f59213c19da08044cd1f53ab1434f28094a1bfb03",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/mole_reference/historical_source/environment/requirements_torchrl_0.3.1_gpu205_20260807.txt",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/THIRD_PARTY_NOTICES.md",
+      "bytes": 1678,
+      "sha256": "41c9d86cf1bfd46236e375a4628296a192e39664f9376a38146596fcdac21f02",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/THIRD_PARTY_NOTICES.md",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/LICENSE_SCOPE.md",
+      "bytes": 763,
+      "sha256": "4ff38b4aee0e53b9ddc363a884e21ac312b33880ae7b069a59d10c4246e44862",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/LICENSE_SCOPE.md",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/LICENSES/CC-BY-4.0.txt",
+      "bytes": 18657,
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/LICENSES/CC-BY-4.0.txt",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/LICENSES/Incompact3d-BSD-3-Clause.txt",
+      "bytes": 1523,
+      "sha256": "88ac953169a5c301d7c4a0daee476f2f90f48f7d06c927858ca5482d7fa27ab0",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/LICENSES/Incompact3d-BSD-3-Clause.txt",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/LICENSES/MIT-author-original.txt",
+      "bytes": 1124,
+      "sha256": "0943855cd625b094dd9892cb17dc9d14ac942b13c3fb4e1ade129edee2a2c56c",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/LICENSES/MIT-author-original.txt",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/LICENSES/SciPilot-MIT.txt",
+      "bytes": 1063,
+      "sha256": "9138113e804093683aea49033b274c7ab35babce90c3acb86eae115d44585671",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/LICENSES/SciPilot-MIT.txt",
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "science/LICENSES/Wind-RL-MIT.txt",
+      "bytes": 1098,
+      "sha256": "c5d8d2e3fc64f88c272ee2050af4d84e5f58f1a5d17a3aa99a47b77466a6fe72",
+      "source_archive": "n81_20261016_portable_science.tar.gz",
+      "source_archive_sha256": "dec85a8abd3659b893e6c0c2e8f72fddb976d4b039d26fa7b5414f7e0f913d15",
+      "source_member": "n81_20261016_portable_science/LICENSES/Wind-RL-MIT.txt",
+      "source_bytes_preserved": true
+    }
+  ],
+  "python_files": 199,
+  "new_GPU_hours": 0,
+  "new_LES_steps": 0,
+  "direct_complete_training_from_git_tree_claimed": false,
+  "standalone_plotting_from_git_tree_claimed": false,
+  "packaging_amendment": {
+    "date": "2026-10-18",
+    "scope": "Portable machine-path metadata and packaging navigation; scientific results retained.",
+    "source_files": 210,
+    "byte_preserved_from_current_archive": 210
+  }
+}
